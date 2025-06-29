@@ -1,0 +1,14 @@
+# fastapi
+# uvicorn
+# python-multipart
+# pdfminer.six
+# langchain
+# pydantic
+# spacy
+# fuzzywuzzy
+# python-docx
+# ollama
+# openai (optional for fallback LLMs)
+# language-tool-python
+# weasyprint                
+# PDF export tool
